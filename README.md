@@ -1,7 +1,7 @@
 ﻿# hw-project-brnaydin
  
  Missing parts: 
- - RabbirMQ integration
+ - RabbitMQ integration
  - Security implementation
  - AOP 
  
