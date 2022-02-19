@@ -1,5 +1,13 @@
 ﻿# hw-project-brnaydin
  
+ Entities: 
+ - Post
+ - User
+ - Post Type Dictionary (ARTICLE, COMMENT)
+ - Post Status Dictionary (ACTIVE, INACTIVE, DRAFT)
+ - User Type Dictionary (ADMIN, MEMBER)
+ - User Status Dictionary (ACTIVE, INACTIVE)
+
  Missing parts: 
  - RabbitMQ integration
  - Security implementation
