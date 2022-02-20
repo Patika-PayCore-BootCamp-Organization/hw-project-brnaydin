@@ -29,7 +29,7 @@ public class PostController {
 
     @GetMapping(value = "/{id}")
     public Post getPost(@PathVariable @Min(1) Long id){
-        return getPost(id);
+        return postService.getPost(id);
     }
 
     @PostMapping(value = "/create")
